@@ -27,4 +27,5 @@
 >Det er en metode i programmering hvori man løser et problem ved at dele problemet op i mindre dele og prøve at komme frem til problemet, og man bruger altså metoden divide and conquer.
 ## Enumerate og Lambda 
 - i  EN FORLYKKE kan du bruge (for i,c in enumeratee), Hvori at hvis du bruger denne på en liste så står i for index værdien og c burde stå for selve værdien.
-
+## XOR 
+>Det er en metode i programmering hvori man anvender tegnet ^ til at analysere et datasæt bestående af integers ved at oversætte tallene fra decimal til binary 01, og hvori hermed computeren sammenligner værdierne og giver et output på true eller false. 
